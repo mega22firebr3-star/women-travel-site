@@ -1,14 +1,14 @@
 {
   "hero": {
-    "title": "¿Tu vida se siente vacía y sin paz?",
-    "subtitle": "Descubre las 12 promesas eternas",
+    "jesusImage": "/assets/fth2.png",
+    "buttonLink": "https://pay.kiwify.com.br/RR9iB5b",
+    "backgroundImage": "/assets/bible-illuminated.jpg",
     "text": "que pueden devolverte esperanza HOY.",
-    "backgroundImage": "/assets/divine-light-hero.jpg",
-    "jesusImage": "/assets/jesus-celestial.jpg",
     "ebookMockup": "/assets/ebook-mockup.webp",
+    "subtitle": "Descubre las 12 promesas eternas",
+    "title": "¿Tu vida se siente vacía y sin paz?",
     "description": "No son frases vacías. Son verdades vivas que ya devolvieron esperanza a miles de creyentes. Hoy pueden devolvértela a ti.",
-    "buttonText": "🙏 Sí, necesito encontrar la paz que tanto busco",
-    "buttonLink": "https://pay.kiwify.com.br/RR9iB5b"
+    "buttonText": "🙏 Sí, necesito encontrar la paz que tanto busco"
   },
   "storytelling": {
     "paragraph1": "María pasaba noches enteras sin dormir.",
