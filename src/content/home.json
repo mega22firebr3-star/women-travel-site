@@ -2,9 +2,9 @@
   "hero": {
     "jesusImage": "/assets/fth2.png",
     "buttonLink": "https://pay.kiwify.com.br/RR9iB5b",
-    "backgroundImage": "/assets/bible-illuminated.jpg",
+    "backgroundImage": "/assets/fth2.png",
     "text": "que pueden devolverte esperanza HOY.",
-    "ebookMockup": "/assets/ebook-mockup.webp",
+    "ebookMockup": "/assets/fth2.png",
     "subtitle": "Descubre las 12 promesas eternas",
     "title": "¿Tu vida se siente vacía y sin paz?",
     "description": "No son frases vacías. Son verdades vivas que ya devolvieron esperanza a miles de creyentes. Hoy pueden devolvértela a ti.",
@@ -44,7 +44,7 @@
     "buttonText": "✨ Quiero vivir estas promesas y encontrar mi paz",
     "list": [
       {
-        "name": "Roberto J.",
+        "name": "Aninha",
         "age": "52 años",
         "text": "Estas promesas me dieron la fuerza para seguir adelante cuando todo parecía perdido.",
         "image": "/assets/fth2.png"
@@ -53,19 +53,19 @@
         "name": "Juan C.",
         "age": "38 años",
         "text": "Mi vida cambió completamente, ahora tengo paz en medio de las tormentas.",
-        "image": "/assets/testimonial-juan.jpg"
+        "image": "/assets/fth2.png"
       },
       {
         "name": "Elena M.",
         "age": "55 años",
         "text": "Encontré consuelo cuando más lo necesitaba. Estas promesas son un regalo del cielo.",
-        "image": "/assets/testimonial-elena.jpg"
+        "image": "/assets/fth2.png"
       }
     ]
   },
   "pricing": {
     "title": "Acceso inmediato por un precio simbólico",
-    "installmentPrice": "10x R$ 0,59",
+    "installmentPrice": "10x R$ mil",
     "fullPrice": "Ou R$ 5,90 à vista",
     "priceDescription": "Menos que un café… por la paz eterna de tu corazón.",
     "paymentLink": "https://pay.kiwify.com.br/RR9iB5b"
